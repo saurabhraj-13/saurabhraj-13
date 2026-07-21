@@ -21,35 +21,12 @@ Software Developer • Java Developer • DSA Enthusiast
 ---
 
 # 👨‍💻 About Me
-
-```java
-public class SaurabhRaj {
-
-    String education = "B.Tech Computer Science";
-    String university = "Galgotias University";
-
-    String role = "Java Developer";
-
-    String passion = "Software Development";
-
-    String currentlyLearning = "React, MongoDB & Advanced DSA";
-
-    String goal = "Software Engineer";
-
-    void dailyRoutine(){
-
-        solveLeetCode();
-
-        buildProjects();
-
-        learnNewTechnology();
-
-        improveProblemSolving();
-
-    }
-
-}
-```
+- 🎓 B.Tech CSE student at **Galgotias University**.
+- 💻 Java Developer with a strong interest in **Software Development**.
+- 📚 Practicing **Data Structures & Algorithms** on LeetCode.
+- 🚀 Building full-stack projects using modern web technologies.
+- 🌱 Currently learning **Spring Boot**, **React.js**, and **MongoDB**.
+- 🎯 Aspiring **Software Engineer**.
 
 ---
 
