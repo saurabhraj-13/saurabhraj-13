@@ -1,7 +1,3 @@
-<!-- ============================== -->
-<!--        HEADER SECTION          -->
-<!-- ============================== -->
-
 <h1 align="center">Hi 👋, I'm Saurabh Raj</h1>
 
 <p align="center">
