@@ -124,9 +124,9 @@ Software Developer • Java Developer • DSA Enthusiast
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=saurabhraj-13&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=saurabhraj-13&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhraj-13&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhraj-13&layout=compact&theme=tokyonight"/>
 
 </p>
 
