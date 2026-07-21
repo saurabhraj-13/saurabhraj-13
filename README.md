@@ -141,15 +141,6 @@ Software Developer • Java Developer • DSA Enthusiast
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=saurabhraj-13&theme=tokyonight&row=1&column=6&margin-w=15&margin-h=15&no-frame=true"/>
-
-</p>
-
----
 
 # 📊 GitHub Summary
 
@@ -222,17 +213,6 @@ System.out.println("Dream Company Achieved 🚀");
 
 ---
 
-# 🐍 Contribution Snake
-
-> **This animation works only after enabling GitHub Actions.**
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/saurabhraj-13/saurabhraj-13/output/github-contribution-grid-snake.svg"/>
-
-</p>
-
----
 
 <p align="center">
 
