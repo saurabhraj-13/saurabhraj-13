@@ -129,39 +129,6 @@ Software Developer • Java Developer • DSA Enthusiast
 
 </p>
 
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=saurabhraj-13&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-
-# 📊 GitHub Summary
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saurabhraj-13&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🎯 2026 Goals
-
-- ✅ Solve **500+ LeetCode Problems**
-- 🚀 Build **10+ Full Stack Projects**
-- 💼 Crack a **Software Engineer Role**
-- 🌱 Learn **Spring Boot & System Design**
-- 🤝 Contribute to **Open Source Projects**
-
----
-
 # 💡 Favorite Quote
 
 > **"Success is built by consistency, not by motivation."**
