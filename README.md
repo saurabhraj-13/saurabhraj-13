@@ -107,15 +107,6 @@ Software Developer • Java Developer • DSA Enthusiast
 
 ---
 
-
-<p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6C00FF&height=150&section=footer"/>
-
-</p>
-
-<h3 align="center">
-
 ⭐ Thanks for visiting my profile ⭐
 
 </h3>
