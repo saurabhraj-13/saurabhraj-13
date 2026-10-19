@@ -52,53 +52,7 @@ Software Developer • Java Developer • DSA Enthusiast
 
 </p>
 
----
 
-# 🚀 Featured Projects
-
-| Project | Description | Tech Stack |
-|----------|-------------|------------|
-| 📌 CampusFind | Smart Campus Lost & Found Portal | React • Node • MongoDB |
-| 💬 Real-Time Chat Application | Real-time Chat using Socket.io | React • Socket.io • MongoDB |
-| 📚 Library Management System | Desktop CRUD Application | Java • Swing • MySQL |
-
----
-
-# 🏆 Achievements
-
-🏅 Solved 300+ Problems on LeetCode
-
-🚀 Smart India Hackathon Participant
-
-💯 Consistent DSA Practice
-
-🎯 Building Full Stack Projects
-
----
-
-# 🌍 Coding Profiles
-
-<p align="center">
-
-<a href="https://leetcode.com/saurabhraj_13/">
-<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
-</a>
-
-<a href="https://github.com/saurabhraj-13">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/saurabh-raj-339272300">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:ssaurabhraj86@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
-</a>
-
-</p>
-
----
 
 # 🔥 LeetCode
 
@@ -129,12 +83,6 @@ Software Developer • Java Developer • DSA Enthusiast
 
 </p>
 
-# 💡 Favorite Quote
-
-> **"Success is built by consistency, not by motivation."**
-
----
-
 # 🌐 Connect With Me
 
 <p align="center">
@@ -156,27 +104,6 @@ Software Developer • Java Developer • DSA Enthusiast
 </a>
 
 </p>
-
----
-
-# ⚡ Fun Fact
-
-```java
-while (!dreamCompanySelected) {
-
-    solveLeetCode();
-
-    buildProjects();
-
-    learnJava();
-
-    improveCommunication();
-
-    neverGiveUp();
-}
-
-System.out.println("Dream Company Achieved 🚀");
-```
 
 ---
 
